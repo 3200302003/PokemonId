@@ -1,3 +1,3 @@
 export function About() {
-    return <h1>2022</h1>;
+    return <h1>Universidad Tecnologica de Aguascalientes</h1>;
   }
