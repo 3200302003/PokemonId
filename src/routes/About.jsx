@@ -1,3 +1,3 @@
 export function About() {
-    return <h1>Pokemon 2022</h1>;
+    return <h1>2022</h1>;
   }
